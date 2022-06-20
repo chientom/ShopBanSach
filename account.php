@@ -9,7 +9,7 @@ session_start();
 	?>
 <?php
 $title ="Shop huy";
-$name ="Điện thoai";
+$name ="Điện1 thoai";
 ?>
 <?php 
 	include "top.php"
@@ -20,9 +20,7 @@ $name ="Điện thoai";
 	<?php 
 	include "navigation.php"
 	?>
-	<!--//////////////////////////////////////////////////-->
-	<!--///////////////////Account Page///////////////////-->
-	<!--//////////////////////////////////////////////////-->
+	
 	<?php
 $tk = "" ;
 $mk = "" ;

@@ -17,9 +17,7 @@ $name ="Điện thoai";
 	<?php 
 	include "navigation.php"
 	?>
-	<!--//////////////////////////////////////////////////-->
-	<!--///////////////////Contact Page///////////////////-->
-	<!--//////////////////////////////////////////////////-->
+	
 	<div id="page-content" class="single-page">
 		<div class="container">
 			<div class="row">

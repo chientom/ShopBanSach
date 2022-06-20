@@ -4,7 +4,7 @@ ob_start();
  ?>
 <?php
  require "login.php";
-      if(!isset($_SESSION['txtus'])) // If session == null thi tra ve trang login
+      if(!isset($_SESSION['txtus'])) 
        {
            header("Location:account.php");  
        }
