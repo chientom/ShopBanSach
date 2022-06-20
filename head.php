@@ -13,7 +13,7 @@ $name ="Nhà sách";
 ?>
     <title><?php echo $title?></title>
 	
-    <!-- Bootstrap Core CSS -->
+    
     <link rel="stylesheet" href="css/bootstrap.min.css"  type="text/css">
     <script src="https://apis.google.com/js/platform.js" async defer>
   {lang: 'vi'}
